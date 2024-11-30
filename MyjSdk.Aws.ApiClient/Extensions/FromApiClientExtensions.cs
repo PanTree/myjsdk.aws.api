@@ -22,7 +22,6 @@ public static class FromApiClientExtensions
         var paramsMap = new Dictionary<string, string?>
         {
             { "cmd", "form.track.url" },
-            //{ "access_key",  client.Credentials.AccessKey},
             { "bpmPortalHost", request.BpmPortalHost },
             { "sid", request.Sid },
             { "processInstId", request.ProcessInstId },
