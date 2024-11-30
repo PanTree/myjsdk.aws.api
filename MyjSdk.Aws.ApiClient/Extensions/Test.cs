@@ -6,5 +6,28 @@ namespace MyjSdk.Aws.ApiClient.Extensions;
 public static class TestExtensions
 {
 
-   
+     public static async Task<MyjAwsApiResponse<Dictionary<string, object>>> ExecuteTaskCompleteAsync(
+        this MyjAwsApiClient client,
+        TaskCompleteRequest request, CancellationToken cancellationToken = default)
+    {
+        ArgumentNullException.ThrowIfNull(client);
+
+        ArgumentNullException.ThrowIfNull(request);
+
+        var paramsMap = new Dictionary<string, string?>
+        {
+            { "cmd", "task.complete" },
+            { "taskInstId", request.TaskInstId },
+            { "uid", request.Uid },
+            { "vars", request.Vars },
+            { "isBranch", request.IsBranch.ToString() },
+            { "isBreakUserTask", request.IsBreakUserTask.ToString() }
+        };
+        using var httpContent = new FormUrlEncodedContent(paramsMap);
+        var fRequest = client
+                .CreateRequest(request, HttpMethod.Post, "portal", "api")
+            ;
+        return await client.SendRequestAsync<MyjAwsApiResponse<Dictionary<string, object>>>(fRequest, httpContent,
+            cancellationToken);
+    }
 }
