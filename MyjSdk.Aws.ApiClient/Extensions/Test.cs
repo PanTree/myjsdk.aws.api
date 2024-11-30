@@ -16,12 +16,12 @@ public static class TestExtensions
 
         var paramsMap = new Dictionary<string, string?>
         {
-            { "cmd", "task.complete" ,
+            { "cmd", "task.complete" },
             { "taskInstId", request.TaskInstId },
             { "uid", request.Uid },
             { "vars", request.Vars },
-            { "isBranch", request.IsBranch.ToString() },
-            { "isBreakUserTask", request.IsBreakUserTask.ToString() }
+            { "isBranch", request.IsBranch.ToString() ,
+            { "isBreakUserTask", request.IsBreakUserTask.ToString() 
         };
         using var httpContent = new FormUrlEncodedContent(paramsMap);
         var fRequest = client
