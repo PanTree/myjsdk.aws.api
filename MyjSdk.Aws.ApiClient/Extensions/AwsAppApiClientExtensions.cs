@@ -32,10 +32,6 @@ public static class AwsAppApiClientExtensions
 
         var fRequest = client
                 .CreateRequest(request, HttpMethod.Post, "portal", "r", "jd")
-            /*.WithSettings(s =>
-            {
-                s.JsonSerializer = new FlurlNewtonsoftJsonSerializer();
-            })*/
             ;
 
         return await client.SendRequestAsync<MyjAwsApiResponse<string>>(fRequest, httpContent, cancellationToken);
