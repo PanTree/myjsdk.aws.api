@@ -16,7 +16,7 @@ public static class TestExtensions
 
         var paramsMap = new Dictionary<string, string?>
         {
-            { "cmd", "task.complete" },
+            { "cmd", "task.complete" ,
             { "taskInstId", request.TaskInstId },
             { "uid", request.Uid },
             { "vars", request.Vars },
