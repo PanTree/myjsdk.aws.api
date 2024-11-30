@@ -1,0 +1,15 @@
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.Aws.ApiClient\bin\Debug\net8.0\MyjSdk.Aws.ApiClient.deps.json
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.Aws.ApiClient\bin\Debug\net8.0\MyjSdk.Aws.ApiClient.dll
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.Aws.ApiClient\bin\Debug\net8.0\MyjSdk.Aws.ApiClient.pdb
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.Aws.ApiClient\bin\Debug\net8.0\MyjSdk.FlurlHttpClient.dll
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.Aws.ApiClient\bin\Debug\net8.0\MyjSdk.FlurlHttpClient.pdb
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.Aws.ApiClient\obj\Debug\net8.0\MyjSdk.Aws.ApiClient.csproj.AssemblyReference.cache
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.Aws.ApiClient\obj\Debug\net8.0\MyjSdk.Aws.ApiClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.Aws.ApiClient\obj\Debug\net8.0\MyjSdk.Aws.ApiClient.AssemblyInfoInputs.cache
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.Aws.ApiClient\obj\Debug\net8.0\MyjSdk.Aws.ApiClient.AssemblyInfo.cs
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.Aws.ApiClient\obj\Debug\net8.0\MyjSdk.Aws.ApiClient.csproj.CoreCompileInputs.cache
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.Aws.ApiClient\obj\Debug\net8.0\MyjSdk.A.3981829C.Up2Date
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.Aws.ApiClient\obj\Debug\net8.0\MyjSdk.Aws.ApiClient.dll
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.Aws.ApiClient\obj\Debug\net8.0\refint\MyjSdk.Aws.ApiClient.dll
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.Aws.ApiClient\obj\Debug\net8.0\MyjSdk.Aws.ApiClient.pdb
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.Aws.ApiClient\obj\Debug\net8.0\ref\MyjSdk.Aws.ApiClient.dll

@@ -1,0 +1,12 @@
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.FlurlHttpClient\bin\Debug\net8.0\MyjSdk.FlurlHttpClient.deps.json
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.FlurlHttpClient\bin\Debug\net8.0\MyjSdk.FlurlHttpClient.dll
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.FlurlHttpClient\bin\Debug\net8.0\MyjSdk.FlurlHttpClient.pdb
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.FlurlHttpClient\obj\Debug\net8.0\MyjSdk.FlurlHttpClient.csproj.AssemblyReference.cache
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.FlurlHttpClient\obj\Debug\net8.0\MyjSdk.FlurlHttpClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.FlurlHttpClient\obj\Debug\net8.0\MyjSdk.FlurlHttpClient.AssemblyInfoInputs.cache
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.FlurlHttpClient\obj\Debug\net8.0\MyjSdk.FlurlHttpClient.AssemblyInfo.cs
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.FlurlHttpClient\obj\Debug\net8.0\MyjSdk.FlurlHttpClient.csproj.CoreCompileInputs.cache
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.FlurlHttpClient\obj\Debug\net8.0\MyjSdk.FlurlHttpClient.dll
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.FlurlHttpClient\obj\Debug\net8.0\refint\MyjSdk.FlurlHttpClient.dll
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.FlurlHttpClient\obj\Debug\net8.0\MyjSdk.FlurlHttpClient.pdb
+E:\proshulin\meiyijia.csp.service\dotnet-core\modules\MyjSdk.Aws.Api\MyjSdk.FlurlHttpClient\obj\Debug\net8.0\ref\MyjSdk.FlurlHttpClient.dll

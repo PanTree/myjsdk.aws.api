@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\..\..\common.props" />
+  
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="NETCore.Encrypt" Version="$(NETCoreEncrypt)" />
+    <PackageReference Include="Volo.Abp" Version="$(AbpPackageVersion)" />
+    <PackageReference Include="Volo.Abp.Caching" Version="$(AbpPackageVersion)" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\MyjSdk.FlurlHttpClient\MyjSdk.FlurlHttpClient.csproj" />
+  </ItemGroup>
+</Project>
+
+

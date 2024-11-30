@@ -1,0 +1,176 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\shulin\\demo\\MyjSdk.Aws.Api\\MyjSdk.Aws.ApiClient\\MyjSdk.Aws.ApiClient.csproj": {}
+  },
+  "projects": {
+    "E:\\shulin\\demo\\MyjSdk.Aws.Api\\MyjSdk.Aws.ApiClient\\MyjSdk.Aws.ApiClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\shulin\\demo\\MyjSdk.Aws.Api\\MyjSdk.Aws.ApiClient\\MyjSdk.Aws.ApiClient.csproj",
+        "projectName": "MyjSdk.Aws.ApiClient",
+        "projectPath": "E:\\shulin\\demo\\MyjSdk.Aws.Api\\MyjSdk.Aws.ApiClient\\MyjSdk.Aws.ApiClient.csproj",
+        "packagesPath": "C:\\Users\\djyes\\.nuget\\packages\\",
+        "outputPath": "E:\\shulin\\demo\\MyjSdk.Aws.Api\\MyjSdk.Aws.ApiClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\djyes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\www\\NuGetPackage": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\shulin\\demo\\MyjSdk.Aws.Api\\MyjSdk.FlurlHttpClient\\MyjSdk.FlurlHttpClient.csproj": {
+                "projectPath": "E:\\shulin\\demo\\MyjSdk.Aws.Api\\MyjSdk.FlurlHttpClient\\MyjSdk.FlurlHttpClient.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "NETCore.Encrypt": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Volo.Abp": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Volo.Abp.Caching": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\shulin\\demo\\MyjSdk.Aws.Api\\MyjSdk.FlurlHttpClient\\MyjSdk.FlurlHttpClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\shulin\\demo\\MyjSdk.Aws.Api\\MyjSdk.FlurlHttpClient\\MyjSdk.FlurlHttpClient.csproj",
+        "projectName": "MyjSdk.FlurlHttpClient",
+        "projectPath": "E:\\shulin\\demo\\MyjSdk.Aws.Api\\MyjSdk.FlurlHttpClient\\MyjSdk.FlurlHttpClient.csproj",
+        "packagesPath": "C:\\Users\\djyes\\.nuget\\packages\\",
+        "outputPath": "E:\\shulin\\demo\\MyjSdk.Aws.Api\\MyjSdk.FlurlHttpClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\djyes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\www\\NuGetPackage": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Flurl": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Flurl.Http.Newtonsoft": {
+              "target": "Package",
+              "version": "[0.9.1, )"
+            },
+            "Volo.Abp": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
