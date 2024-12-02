@@ -24,8 +24,8 @@ public static class TestExtensions
             { "isBreakUserTask", request.IsBreakUserTask.ToString()}
         };
         foreach (var key in paramsMap.Keys){
-            var value = paramsMap[key];
-            
+            var value = paramsMap[key]
+
         }
         using var httpContent = new FormUrlEncodedContent(paramsMap);
         var fRequest = client
