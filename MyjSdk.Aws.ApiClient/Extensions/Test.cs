@@ -20,8 +20,8 @@ public static class TestExtensions
             { "taskInstId", request.TaskInstId },
             { "uid", request.Uid },
             { "vars", request.Vars },
-            { "isBranch", request.IsBranch.ToString() },
-            { "isBreakUserTask", request.IsBreakUserTask.ToString() }
+            { "isBranch", request.IsBranch.ToString() ,
+            { "isBreakUserTask", request.IsBreakUserTask.ToString() 
         };
         using var httpContent = new FormUrlEncodedContent(paramsMap);
         var fRequest = client
